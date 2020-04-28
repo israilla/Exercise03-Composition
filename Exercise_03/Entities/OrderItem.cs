@@ -28,12 +28,12 @@ namespace Exercise_03.Entities
 
         public override string ToString()
         {
-            return Product
+            return Product.Name
                 +", $"
                 + Price.ToString()
                 + ", Quantity: "
                 + Quantity
-                + ", "
+                + ", $"
                 + Subtotal().ToString();
         }
     }
