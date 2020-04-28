@@ -1,0 +1,11 @@
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.exe
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.deps.json
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.runtimeconfig.json
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.dll
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.pdb
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.AssemblyInfo.cs
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.dll
+C:\Users\Israilla\source\repos\Exercise_03\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.pdb
